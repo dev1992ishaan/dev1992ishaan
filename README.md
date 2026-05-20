@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ishan
+# Hi 👋, I'm Ishaan
 
 ## Full Stack .NET Developer
 
@@ -7,7 +7,7 @@ I build scalable web applications using *ASP.NET Core, Angular, SQL Server, and 
 - 🔭 Currently working on *CineStream*
 - 🌱 Learning *Advanced .NET Architecture*
 - 💬 Ask me about *ASP.NET Core, Angular, JWT, SQL Server*
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: dev1992ishaan@gmail.com
 
 ---
 
@@ -30,11 +30,9 @@ I build scalable web applications using *ASP.NET Core, Angular, SQL Server, and 
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev1992ishaan)
 
 ---
 
@@ -56,4 +54,4 @@ https://cinestream-frontend-nine.vercel.app/login
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+![Visitor Count](https://komarev.com/ghpvc/?username=dev1992ishaan)
